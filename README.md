@@ -92,8 +92,7 @@ This project helped me demonstrate:
 ## 📫 Contact
 
 **Antony Paul A**  
-📧 antonypaul248@gmail.com  
-📱 +91 75581 33515  
+📧 antonypaul248@gmail.com   
 [LinkedIn](#)
 
 ---
